@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# IMovi - a Website made with Bootstrap
+
+
+ This project is a singlepage website, made with Boostrap. This project is a part of a Bootstrap course by Matheus Battisti from the "Hora de Codar on Youtube <br>
+ This project are made with the bootstrap Framework, HTML and CSS <br>
+ The video with the class and the create of project are available here <a href="https://www.youtube.com/watch?v=jJUpJA1GJHw&ab_channel=MatheusBattisti-HoradeCodar"> Click here</a>
+ 
+## Images from the project
+
+  <p align="center">
+    <img src="https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/1.PNG?raw=true">
+</p>    
+<hr>
+  <p align="center">
+    <img src="https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/2.PNG?raw=true">
+</p> 
+<br>
+
+##Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
