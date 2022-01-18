@@ -1,7 +1,7 @@
 # Search CEP Engine - Made with React
 
 
- This project is a singlepage website, made with Boostrap. This project is a part of a Bootstrap course by Matheus Battisti from the "Hora de Codar on Youtube <br>
+ This project is a CEP code searcher made with React. It brings all the address information of a particular location, such as Neighborhood, City, Complement, etc. <br>
  This project are made with a API called ViaCEP. You can access it <a href="https://viacep.com.br/"> here </a> 
  
 ## Images from the project
