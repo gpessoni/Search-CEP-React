@@ -1,7 +1,14 @@
 function App() {
   return (
-    <div className="App">
-      <h1>Teste</h1>
+    <div className="container">
+      <h1 className="title">Buscador CEP</h1>
+
+
+      <div className="input">
+        <input type="text" placeholder="Digite seu CEP..." />
+
+
+      </div>
     </div>
   );
 }
